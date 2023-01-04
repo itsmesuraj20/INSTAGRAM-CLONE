@@ -1,31 +1,19 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simcoder_here)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simcoder_here/)
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/simcoder)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsmesuraj20)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmesuraj20/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsmesuraj20)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SimCoderYoutube/InstagramClone">
-    <img src="images/simcoder.png" alt="Logo" width="120" height="120">
+  <a href="https://github.com/itsmesuraj20/INSTAGRAM-CLONE">
   </a>
 
   <h3 align="center">Instagram Clone</h3>
 
-  <p align="center">
-    A Instagram clone app made with React Native and firebase
-    <br />
-    <a href="https://github.com/SimCoderYoutube/InstagramClone/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/SimCoderYoutube/InstagramClone/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SimCoderYoutube/InstagramClone/issues">Request Feature</a>
-  </p>
-</p>
+ 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -58,15 +46,11 @@
 
 ![alt text](images/mockup.png "Title")
 
-This repo contains the project made in my youtube chanel called simcoder. This project is a clone of the Instagram android app.
+This repo contains the project made in my youtube chanel called Suraj Singh. This project is a clone of the Instagram android app.
 
 It is made using React Native with Expo using firebase services (authentication, firestore and storage).
 The admin panel is made with ReactJS.
 The backend is all NodeJS
-
-In the [master](https://github.com/SimCoderYoutube/InstagramClone/tree/master) branch you have the redesign project which I was previously selling in my website, however you still have access to the youtube series repo in the [youtube_series](https://github.com/SimCoderYoutube/InstagramClone/tree/youtube_series)
-
-You can follow the youtube series in the following [link](https://www.youtube.com/watch?v=xE8UEX7vXVQ&list=PLxabZQCAe5fgatwOQny9wKJVs4YD6xkf1)
 
 ## 🆕 Getting Started
 
@@ -80,37 +64,31 @@ You can follow the youtube series in the following [link](https://www.youtube.co
 
 - ### **Installation**
 
-  In order to deploy the project you'll need to follow the [wiki page](https://github.com/SimCoderYoutube/InstagramClone/wiki/Setup-your-project) dedicated to this effect.
+  In order to deploy the project you'll need to follow the [wiki page](https://github.com/itsmesuraj20) dedicated to this effect.
 
 ## 🚧 Roadmap
 
-See the [open issues](https://github.com/SimCoderYoutube/InstagramClone/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/itsmesuraj20) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
 ## ➕ Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please check the [Wiki](https://github.com/SimCoderYoutube/InstagramClone/wiki/How-to-Contribute)
+
 
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
 
-And don't forget to subscribe to the [youtube chanel](https://www.youtube.com/c/SimpleCoder?sub_confirmation=1)
-
-## 📝 License
-
-Copyright © 2021 [SimCoder](https://github.com/simcoderYoutube).
-
-This project is [Apache License 2.0](https://github.com/SimCoderYoutube/InstagramClone/blob/master/LICENSE) licensed. Some of the dependencies are licensed differently.
+And don't forget to subscribe to the [youtube chanel](https://www.youtube.com/@itsmesuraj20)
 
 <!-- CONTACT -->
 
 ## 👤 Contact
 
-**SimCoder**
+**Suraj Singh**
 
-- Website: www.simcoder.com
-- Twitter: [@simcoder_here](https://twitter.com/simcoder_here)
-- Github: [@simcoderYoutube](https://github.com/simcoderYoutube)
-- Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+- Website: itsmesuraj20.netlify.app
+- Twitter: [@surajsingh](https://twitter.com/itsmesuraj2002)
+- Github: [@SurajSingh](https://github.com/itsmesuraj20)
+- Youtube: [Suraj Singh](https://www.youtube.com/@itsmesuraj20)
